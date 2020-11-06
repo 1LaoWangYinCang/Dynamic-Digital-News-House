@@ -1,14 +1,17 @@
-# TouTiaoTiYuDaShi
-TouTiaoTiYuDaShi is an app for booking fitness sports venues and recording fitness activities. It is committed to promoting the most popular, the most professional fitness and sports venues, so that people in their daily life can be efficient, high-quality booking to their favorite fitness and sports venues. At the same time, I can record every workout and write down how I felt after the exercise.
+# QiuShenZhangShangZhuShou
 
-- Our app has classified these sports and fitness venues in great detail, including yoga gym, gym, fight gym, natatorium and other sports and fitness venues. These full range of sports and fitness venues can meet the user's selection and appointment.
+QiuShenZhangShangZhuShou is an app to buy ball sports equipment, record matches and learn playing skills. It is dedicated to promoting various ball games, so that people can efficiently buy professional ball equipment in their daily life, learn various ball skills and rules, and easily record matches.
 
-- Our app will introduce each sports and fitness venue in detail, so that you can fully understand these venues and find your favorite sports and fitness venues, so that you can make an appointment and place an order.
+- There are various ball game skills pages in our app. We provide various ball game skills and strategy analysis, so that you can know more about various ball game skills and improve your level.
 
-- Our app also has the function of collecting sports and fitness venues. You can add your favorite sports and fitness venues to the list, so that you can browse and place your order next time.
+- Our app also has a live score recording function. You can record the score and details of the live game, record every game you like, and share the match results.
 
-- Our app can also record every exercise, the feeling after the exercise, write down our goals and record our fitness life.
+- Our app displays a full range of ball sports equipment, including tennis equipment, table tennis equipment, volleyball equipment, badminton equipment and ball sports equipment such as soccer equipment and basketball equipment. These kinds of complete ball games equipment can meet the user's choice and purchase.
 
-Book a gym to record your healthy life
+- Our APP has classified these ball sports equipment in great detail, which helps users to easily and quickly find the ball sports equipment they want to buy.
 
-If you have any questions, please contact us as follows :hbeilijj@163.com
+- Our app also has the function of commodity collection. Your favorite ball sports equipment can be collected into the collection list, which is convenient for you to browse and place orders.
+
+Buy equipment, learn tricks, record games, and become an expert!
+
+If you have any questions, please contact us as follows :sjdp79@icloud.com
