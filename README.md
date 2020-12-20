@@ -6,4 +6,4 @@ Our app is a professional sports and fitness place appointment app. We recommend
 
 Use our app to book the most professional sports and fitness venues, and record the daily fitness and sports life!
 
-If you have any questions, please contact us as follows :sjdp79@icloud.com
+If you have any questions, please contact us as follows :dx19950209@icloud.com
