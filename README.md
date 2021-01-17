@@ -1,9 +1,11 @@
-# TiYuTouTiaoZhuShou
+# Dynamic Digital News House
 
-TiYuTouTiaoZhuShou allows you to enjoy the fun of fitness and experience the happiness brought by sports. At the same time can also record every day's fitness exercise, so that you have a planned fitness exercise, enjoy a healthy life.
+Dynamic Digital News House is committed to promoting the dynamic information of digital currency. It is an app that allows people to easily and conveniently access to real-time news information. You can comment, like, share and collect these hot news.
 
-Our app is a professional sports and fitness place appointment app. We recommend a variety of popular professional sports and fitness places, so that you can efficiently and quickly book to the places you want to go in your daily life. Our sports and fitness place is professional and comfortable, very suitable for sports and fitness.
+You can view the market information of various digital currencies and understand the market changes. At the same time, you can also express your own opinions, discuss and exchange ideas with others. 
 
-Use our app to book the most professional sports and fitness venues, and record the daily fitness and sports life!
+Our app also has the function of appointment for lectures. You can make an appointment for excellent offline lectures, learn relevant basic knowledge and consult relevant questions, so that you can have a better understanding of digital currency.
 
-If you have any questions, please contact us as follows :dx19950209@icloud.com
+Dynamic information of digital currency can be viewed at any time.
+
+If you have any questions, please contact us as follows :mckotoohh@hotmail.com
